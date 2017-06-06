@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Texty - Demo</string>
+    <string name="strNombre">Nombre</string>
+    <string name="strApellidos">Apellidos</string>
+    <string name="strFnacimiento">Fecha de nacimiento</string>
+    <string name="strDireccion">Direccion</string>
+    <string name="strClaveElector">Clave Elector</string>
+</resources>

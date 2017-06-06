@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="light_gray">#fff5f5f5</color>
+    <color name="white_transparent">#0099FF</color>
+    <color name="whiteDoqi">#FFFFFF</color>
+    <color name="blueMenu">#00CCFF</color>
+    <color name="blueBorders">#0099FF</color>
+    <color name="blueButtonsText">#6699FF</color>
+    <color name="blueButtonsTransparent">#806699FF</color>
+    <color name="redDoqi">#FF3333</color>
+    <color name="grayDoqi">#666666</color>
+    <color name="gris">#CCCCCC</color>
+    <color name="gris_neutral">  #CCCCFF</color>
+    <color name="border_activity_blue">#9999FF</color>
+    <color name="dialog_background"> #CCFFFF</color>
+    <color name="rosa">#fff7f8</color>
+    <color name="pink_lines">#FF99FF</color>
+    <color name="pink_camera_control"> #FFCCFF</color>
+</resources>
